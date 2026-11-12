@@ -1,16 +1,19 @@
-## Hi there 👋
+TinkerBuilds
 
-<!--
-**Tinkerbuilds/Tinkerbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experiment. Build. Learn. Repeat.
 
-Here are some ideas to get you started:
+Welcome to my personal space for exploring ideas, experimenting with technology, and building things from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Exploring
+
+- Software Development
+- Hardware & Electronics
+- Game Development
+- Artificial Intelligence
+- DIY Projects & Experiments
+
+Philosophy
+
+I believe the best way to learn is to build, experiment, break things, and try again.
+
+Stay curious. Keep building.
